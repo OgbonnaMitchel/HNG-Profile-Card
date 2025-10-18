@@ -63,8 +63,8 @@ p[data-testid="test-user-bio"] {
 nav[data-testid="test-user-social-links"] {
   display: flex;
   justify-content: center;
-  gap: 1rem;
-  margin-top: 1.2rem;
+  gap: 2rem;
+  margin-block: 2rem;
 }
 
 nav a {
